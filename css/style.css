@@ -480,7 +480,7 @@ footer{
 }
 
 /* max device width */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 350px) {
 	.section-links img{
         visibility: hidden;
         
