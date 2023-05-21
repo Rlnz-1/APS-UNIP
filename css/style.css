@@ -439,13 +439,6 @@ footer{
     
 }
 
-
-
-/* min-width */
-@media screen and (min-width: 900px) {
-	
-}
-
 /* min-width & max-width */
 @media screen and (min-width: 600px) and (max-width: 900px) {
 	.section-links img{
