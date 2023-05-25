@@ -452,9 +452,10 @@ footer{
         font-size: 15px ;
     }
 
-    #card{
-        display: flow-root;
+    .acss-rapid{
+        display: flex;
     }
+
 }
 /* min-width & max-width */
 @media screen and (min-width: 600px) and (max-width: 900px) {
