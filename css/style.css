@@ -453,7 +453,7 @@ footer{
     }
 
     .acss-rapid{
-        display: flex;
+        display: table-caption;
     }
 
 }
