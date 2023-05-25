@@ -452,6 +452,9 @@ footer{
         font-size: 15px ;
     }
 
+    a{
+        display: flex;
+    }
 }
 /* min-width & max-width */
 @media screen and (min-width: 600px) and (max-width: 900px) {
