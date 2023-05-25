@@ -452,8 +452,8 @@ footer{
         font-size: 15px ;
     }
 
-    a{
-        display: flex;
+    #card{
+        display: flow-root;
     }
 }
 /* min-width & max-width */
